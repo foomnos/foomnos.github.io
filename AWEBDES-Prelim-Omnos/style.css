@@ -37,3 +37,11 @@ header{
 footer{
     background-color: var(--color4);
 }
+
+.letterSpacing{
+    letter-spacing: 3px;
+}
+
+.headerLetterSpacing{
+    letter-spacing: 7px;
+}
